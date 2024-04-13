@@ -4,7 +4,7 @@
   "description": "This is a cli based Todo-List.",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "todos.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
